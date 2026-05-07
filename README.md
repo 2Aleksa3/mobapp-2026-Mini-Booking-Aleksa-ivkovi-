@@ -1,5 +1,4 @@
-	“Mini Booking” jeste Android aplikacija za rezervaciju smeštaja koja omogućava korisnicima pregled destinacija i zakazivanje termina u realnom vremenu. Cilj ove Android aplikacije jeste zakazivanje termina bez konflikata.
-	Lista funkcionalnosti:
+“Mini Booking” jeste Android aplikacija za rezervaciju smeštaja koja omogućava korisnicima pregled destinacija i zakazivanje termina u realnom vremenu. Cilj ove Android aplikacije jeste zakazivanje termina bez konflikata.
 -Korisnička prijava: Početni ekran  za prijavu tj. login (validaciju username i password). Pre samog logina neophodno je registrovati se (drugi ekran za registraciju samog korisnika);
 -Pregled kategorija tj. odabir same destinacije;
 -Odabir smeštaja;
